@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["BitDepth","The number of bits to be used per channel per pixel"],["ColorType","The color type used to represent this image"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PngData","Contains all data relevant to a PNG image"],["ScanLine","A scan line in a PNG image"],["ScanLines","An iterator over the scan lines of a PNG image"]]});

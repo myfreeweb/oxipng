@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Headers","Options to use for performing operations on headers (such as stripping)"]],"fn":[["file_header_is_valid",""],["parse_ihdr_header",""],["parse_next_header",""]],"struct":[["IhdrData","Headers from the IHDR chunk of the image"]]});
